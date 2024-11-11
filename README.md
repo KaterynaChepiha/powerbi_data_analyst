@@ -1,1 +1,3 @@
 # powerbi_data_analyst
+
+<b>Description</b>:In my role as a Business Systems Analyst for a gaming company, I focused on visualizing sales data using Power BI and Excel to create an engaging dashboard. This dashboard included reports on Sales by Country, Segment, and Product, along with Total Sales, Units Sold, and Sales by Date. I implemented dynamic filters for Product, Country, and Segment, allowing stakeholders to explore the data flexibly. This initiative demonstrated my expertise in data visualization within the gaming industry, providing actionable insights that informed strategic decision-making. 
